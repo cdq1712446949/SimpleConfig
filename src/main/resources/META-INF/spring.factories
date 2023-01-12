@@ -1,3 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.cdq.sc.SimpleConfigHandler,\
-  com.cdq.sc.DriverManager
