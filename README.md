@@ -5,6 +5,7 @@
     
 ### 源码地址
 [源码](https://gitee.com/vvwvvwvvw/simple-config)
+[demo](https://gitee.com/vvwvvwvvw/demo/tree/prd/)
 
 ### 使用方法
 1. 引入依赖
