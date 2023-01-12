@@ -4,7 +4,7 @@
     简化系统配置表的相关代码
     
 ### 源码地址
-    https://gitee.com/vvwvvwvvw/simple-config
+    [源码](https://gitee.com/vvwvvwvvw/simple-config)
 
 ### 使用方法
 1. 引入依赖
